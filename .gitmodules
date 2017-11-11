@@ -1,0 +1,11 @@
+[submodule "adaptive-plot"]
+	path = adaptive-plot
+	url = git://github.com/axch/adaptive-plot.git
+
+[submodule "pattern-case"]
+	path = pattern-case
+	url = git://github.com/axch/pattern-case.git
+
+[submodule "testing"]
+	path = testing
+	url = git://github.com/axch/test-manager.git
